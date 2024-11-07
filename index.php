@@ -11,25 +11,6 @@ include 'admin/config.php'; // Arquivo de configuração do banco de dados
     <title>Gerenciamento de Tarefas - Kanban</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/Assets/css/style.css">
-    <style>
-        .kanban-column {
-            background-color: #f8f9fa;
-            border-radius: 5px;
-            padding: 15px;
-            margin: 10px;
-            min-height: 400px;
-        }
-        .task-card {
-            background-color: #ffffff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 10px;
-            margin-bottom: 10px;
-        }
-        .task-card p {
-            margin: 5px 0;
-        }
-    </style>
 </head>
 <body>
     <!-- Adicione uma nav bar com links ou botões -->
