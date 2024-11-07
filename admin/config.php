@@ -1,9 +1,9 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-$password = 'root'; // Coloque a senha aqui, se houver (exemplo: $password = 'sua_senha')
+$password = ''; // Coloque a senha aqui, se houver (exemplo: $password = 'sua_senha')
 $database = 'gerenciamento_tarefas';
-$port = 3306;
+$port = 3307;
 
 $conexao = new mysqli($host, $user, $password, $database, $port);
 
