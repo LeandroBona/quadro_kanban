@@ -1,0 +1,17 @@
+.kanban-column {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 10px;
+            min-height: 400px;
+        }
+        .task-card {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .task-card p {
+            margin: 5px 0;
+        }
