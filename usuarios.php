@@ -13,7 +13,6 @@
     <div class="container mt-5">
         <h2>Cadastro de Usuário</h2>
         <form action="./usuarios/cadastrar_usuario.php" method="POST" class="mt-4">
-            <!-- colocar os campos do formuário aqui -->
             <div class="form-group">
                 <label for="nome">Nome:</label>
                 <input type="text" class="form-control" id="nome" name="nome" required>
@@ -25,7 +24,6 @@
             <button type="submit" class="btn btn-primary">Cadastrar</button>
         </form>
     </div>
-
     <script src="Assets/js/script.js"></script>
 </body>
 </html>
