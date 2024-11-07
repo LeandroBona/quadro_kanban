@@ -10,7 +10,7 @@ include 'admin/config.php'; // Arquivo de configuração do banco de dados
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerenciamento de Tarefas - Kanban</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/Assets/css/style.css">
+    <link rel="stylesheet" href="Assets/css/style.css">
 </head>
 <body>
     <!-- Adicione uma nav bar com links ou botões -->
